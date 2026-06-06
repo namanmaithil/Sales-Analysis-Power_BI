@@ -51,7 +51,7 @@ Sample Superstore Dataset
 
 ## Dashboard Preview
 
-![Dashboard](C:\Users\Dडेस्कटॉप\Sales-Analysis-PowerBI\Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
